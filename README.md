@@ -1,4 +1,4 @@
-# ASP.NET_Core_with_SingalR_example
+# ASP.NET_Core_with_SignalR_example
 Get started with ASP.NET Core SignalR
 
 ###########################  Result ##########################
