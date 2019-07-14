@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "defaultProvider": "z",
+  "libraries": [
+    {
+      "provider": "unpkg",
+      "library": "@aspnet/signalr@1",
+      "destination": "wwwroot/lib/signalr/",
+      "files": [
+        "package.json",
+        "README.md",
+        "dist/browser/signalr.min.js",
+        "dist/browser/signalr.js"
+      ]
+    }
+  ]
+}
